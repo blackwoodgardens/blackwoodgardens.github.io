@@ -7,51 +7,6 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Services</title>
-				
-				
-					<description>&lt;h3 id=&quot;garden-design---planting-design---garden-advice&quot;&gt;Garden Design - Planting Design - Garden Advice&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;assets/img/Services3Dshow.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;garden-design&quot;&gt;Garden Design&lt;/h2&gt;
-&lt;p&gt;Bespoke designs to transform your garden. 
-These start with a detailed brief, survey and site analysis before concept drawings, mood boards and 3D visuals are developed.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Services</link>
-				<guid isPermaLink="true">http://localhost:4000/Services</guid>
-			</item>
-		
-			<item>
-				<title>Get in Touch</title>
-				
-				
-					<description>&lt;h5 id=&quot;ready-to-start-your-next-project-with-us&quot;&gt;Ready to start your next project with us?&lt;/h5&gt;
-</description>
-				
-				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Contact</link>
-				<guid isPermaLink="true">http://localhost:4000/Contact</guid>
-			</item>
-		
-			<item>
-				<title>About</title>
-				
-				
-					<description>&lt;p&gt;Anna Blackwood runs Blackwood Gardens, she trained in Garden Design at SRUC in Edinburgh and studied horticulture at RGBE and is a pre-registered member of the Society of Garden designers.
-Anna is a keen gardener, with a wide plant knowledge. 
-She loves the challenge of transforming outdoor spaces into beautiful, practical gardens loved by their owner.
-Blackwood Gardens is a design studio operating from East Lothian and working across Scotland. 
-We work in partnership with landscape professionals to deliver quality garden transformations. 
-&lt;img src=&quot;/assets/img/annaplants.jpg&quot; alt=&quot;anna&quot; /&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/About</link>
-				<guid isPermaLink="true">http://localhost:4000/About</guid>
-			</item>
-		
-			<item>
 				<title>Front and Back Garden Dunfermline</title>
 				
 				
@@ -90,7 +45,7 @@ The planting was designed for harmonious colours and seasonal interest.
 &lt;img src=&quot;/assets/img/MurrayVerbena.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;em&gt;Vernena bonariensis&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.”&lt;/p&gt;
+
 &lt;/blockquote&gt;
 </description>
 				
@@ -106,9 +61,21 @@ The planting was designed for harmonious colours and seasonal interest.
 					<description>&lt;p&gt;SRUC show garden: College show garden at Gardening Scotland 2019 ‘Bayet’ garden winning Silver Gilt&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/ShowGarden</link>
 				<guid isPermaLink="true">http://localhost:4000/ShowGarden</guid>
+			</item>
+		
+			<item>
+				<title>Border Rejuvination East Lothian</title>
+				
+				
+					<description>&lt;p&gt;&lt;em&gt;Achillea ‘Salmon Beauty’&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Border</link>
+				<guid isPermaLink="true">http://localhost:4000/Border</guid>
 			</item>
 		
 			<item>
@@ -123,21 +90,66 @@ The planting was designed for harmonious colours and seasonal interest.
 &lt;em&gt;Upper Terrace – mix of grasses and perennials for bright airy feel with yellows, terracotta’s and red&lt;/em&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
+				<pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Quartermile</link>
 				<guid isPermaLink="true">http://localhost:4000/Quartermile</guid>
 			</item>
 		
 			<item>
-				<title>Border Rejuvination East Lothian</title>
+				<title>About</title>
 				
 				
-					<description>&lt;p&gt;&lt;em&gt;Achillea ‘Salmon Beauty’&lt;/em&gt;&lt;/p&gt;
+					<description>&lt;p&gt;Anna Blackwood runs Blackwood Gardens, she trained in Garden Design at SRUC in Edinburgh and studied horticulture at RGBE and is a pre-registered member of the Society of Garden designers.
+Anna is a keen gardener, with a wide plant knowledge. 
+She loves the challenge of transforming outdoor spaces into beautiful, practical gardens loved by their owner.
+Blackwood Gardens is a design studio operating from East Lothian and working across Scotland. 
+We work in partnership with landscape professionals to deliver quality garden transformations. 
+&lt;img src=&quot;/assets/img/annaplants.jpg&quot; alt=&quot;anna&quot; /&gt;&lt;/p&gt;
 </description>
 				
-				<pubDate>Mon, 10 Oct 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/Border</link>
-				<guid isPermaLink="true">http://localhost:4000/Border</guid>
+				<pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/About</link>
+				<guid isPermaLink="true">http://localhost:4000/About</guid>
+			</item>
+		
+			<item>
+				<title>Services</title>
+				
+				
+					<description>&lt;h3 id=&quot;garden-design---planting-design---garden-advice&quot;&gt;Garden Design - Planting Design - Garden Advice&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;assets/img/Services3Dshow.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;garden-design&quot;&gt;Garden Design&lt;/h2&gt;
+&lt;p&gt;Bespoke designs to transform your garden. 
+These start with a detailed brief, survey and site analysis before concept drawings, mood boards and 3D visuals are developed.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Services</link>
+				<guid isPermaLink="true">http://localhost:4000/Services</guid>
+			</item>
+		
+			<item>
+				<title>Projects</title>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Projects</link>
+				<guid isPermaLink="true">http://localhost:4000/Projects</guid>
+			</item>
+		
+			<item>
+				<title>Get in Touch</title>
+				
+				
+					<description>&lt;h5 id=&quot;ready-to-start-your-next-project-with-us&quot;&gt;Ready to start your next project with us?&lt;/h5&gt;
+</description>
+				
+				<pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Contact</link>
+				<guid isPermaLink="true">http://localhost:4000/Contact</guid>
 			</item>
 		
 	</channel>
