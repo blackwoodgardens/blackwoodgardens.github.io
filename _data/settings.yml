@@ -8,7 +8,7 @@ disqus:
 google-ID: 'G-32BWWCYLJC'
 menu:
 - {name: 'Services',  url: 'services'}
-- {name: 'Featured Projects',  url: 'projects'}
+- {name: 'Projects',  url: 'projects'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 - {url: 'docs'}

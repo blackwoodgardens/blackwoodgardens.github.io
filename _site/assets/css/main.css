@@ -338,7 +338,7 @@ pre code {
     cursor: pointer;
   }
   .dropdown {
-    position: relative;
+    position: sticky;
     display: inline-block;
   }
   .dropdown-content {
