@@ -97,7 +97,7 @@ dd {
   Links
 */
 a {
-  color: #3944E5;
+  color: black;
   text-decoration: none;
 }
 
@@ -238,7 +238,7 @@ pre code {
 }
 .footer {
   background: white;
-  color: #3944E5;
+  color: black;
   text-align: center;
   min-height: 56px;
   line-height: 45px;
@@ -246,7 +246,7 @@ pre code {
 }
 
 .footer a {
-  color: #3944E5;
+  color: black;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
@@ -254,7 +254,7 @@ pre code {
 @media (max-width: 1100px) {
   .footer {
     background: white;
-    color: #3944E5;
+    color: black;
     text-align: center;
     min-height: 56px;
     line-height: 45px;
