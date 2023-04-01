@@ -5,7 +5,7 @@ disqus:
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 # google-ID: 'UA-112060364-2'
-google-ID: 'G-QCH4H44KRJ'
+google-ID: 'G-32BWWCYLJC'
 menu:
 - {name: 'Services',  url: 'services'}
 - {name: 'Featured Projects',  url: 'projects'}
