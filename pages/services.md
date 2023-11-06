@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Garden Design Services
 category: services
 permalink: /services
 ---
