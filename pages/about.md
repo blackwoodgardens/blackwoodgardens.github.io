@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Blackwood Gardens
 category: about
 permalink: /about
 ---
