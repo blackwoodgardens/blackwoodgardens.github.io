@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Projects
+title: Garden Projects
 category: projects
 permalink: /projects
 ---
