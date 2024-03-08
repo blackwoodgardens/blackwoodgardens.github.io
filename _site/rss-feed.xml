@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>Blackwood Gardens</title>
-		<description>Designing Gardens in Edinburgh and East Lothian</description>
+		<description>Designing Gardens of all shapes and sizes in East Lothian and Edinburgh</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -14,9 +14,48 @@
 &lt;p&gt;The brief was to improve access around the garden as it had awkward steps, a steep planting bank, slippery deck and rough gravel paths. The owner is a keen gardener and wanted lots of space for planting, a wildlife pond and space to grow vegetables. They also wanted a new seating area with a combined shed/greenhouse building and summerhouse.&lt;/p&gt;
 </description>
 				
-				<pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+				<pubDate>Sat, 01 Apr 2023 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/Dunfermline</link>
 				<guid isPermaLink="true">http://localhost:4000/Dunfermline</guid>
+			</item>
+		
+			<item>
+				<title>Cockenzie East Lothian</title>
+				
+				
+					<description>&lt;h2 id=&quot;sunny-coastal-garden&quot;&gt;Sunny Coastal Garden&lt;/h2&gt;
+&lt;p&gt;This sunny enclosed garden is located in a conservation area of a historic fishing village in East Lothian. The owner wanted to increase the size of the seating area, while keeping it in the same location. The challenge was the house was accessed by  doors on different levels.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Cockenzie</link>
+				<guid isPermaLink="true">http://localhost:4000/Cockenzie</guid>
+			</item>
+		
+			<item>
+				<title>Planting Design - Edinburgh</title>
+				
+				
+					<description>&lt;p&gt;Planting Design – Edinburgh&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Balerno</link>
+				<guid isPermaLink="true">http://localhost:4000/Balerno</guid>
+			</item>
+		
+			<item>
+				<title>Front Garden - Edinburgh</title>
+				
+				
+					<description>&lt;h3 id=&quot;portobello-front-garden&quot;&gt;Portobello Front Garden&lt;/h3&gt;
+&lt;p&gt;This project was about the rejuvination of a front garden in the conservation area of Portobello. 
+The garden was made up of lawn, mature shrubs and concrete paths with bins on view. The owner wanted to replace the paths, hide the bins and create a garden that gave doorstep appeal. As this garden is located in a conservation area planning permission was secured to make the changes.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Portobello</link>
+				<guid isPermaLink="true">http://localhost:4000/Portobello</guid>
 			</item>
 		
 			<item>
@@ -96,59 +135,15 @@ The planting was designed for harmonious colours and seasonal interest.
 			</item>
 		
 			<item>
-				<title>About Blackwood Gardens</title>
-				
-				
-					<description>&lt;p&gt;Anna Blackwood runs Blackwood Gardens, she trained in Garden Design at SRUC in Edinburgh and studied horticulture at RGBE and is a pre-registered member of the Society of Garden designers.
-Anna is a keen gardener, with a wide plant knowledge. 
-She loves the challenge of transforming outdoor spaces into beautiful, practical gardens loved by their owner.
-Blackwood Gardens is a design studio based near North Berwick operating in East Lothian and the Edinbugh area. 
-We work in partnership with landscape professionals to deliver quality garden transformations of all shapes and sizes across Scotland.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/About</link>
-				<guid isPermaLink="true">http://localhost:4000/About</guid>
-			</item>
-		
-			<item>
-				<title>Garden Design Services</title>
-				
-				
-					<description>&lt;h3 id=&quot;garden-design---planting-design---garden-advice&quot;&gt;Garden Design - Planting Design - Garden Advice&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;assets/img/Services3Dshow.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;garden-design&quot;&gt;Garden Design&lt;/h2&gt;
-&lt;p&gt;Bespoke designs to transform your garden. 
-These start with a detailed brief, survey and site analysis before concept drawings, mood boards and 3D visuals are developed.&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Services</link>
-				<guid isPermaLink="true">http://localhost:4000/Services</guid>
-			</item>
-		
-			<item>
 				<title>Garden Projects</title>
 				
 				
 					<description>
 </description>
 				
-				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Projects</link>
 				<guid isPermaLink="true">http://localhost:4000/Projects</guid>
-			</item>
-		
-			<item>
-				<title>Get in Touch</title>
-				
-				
-					<description>&lt;h5 id=&quot;ready-to-start-your-next-project-with-us&quot;&gt;Ready to start your next project with us?&lt;/h5&gt;
-</description>
-				
-				<pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Contact</link>
-				<guid isPermaLink="true">http://localhost:4000/Contact</guid>
 			</item>
 		
 	</channel>
