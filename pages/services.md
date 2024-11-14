@@ -7,7 +7,12 @@ permalink: /services
 ### Garden Design 
  ![3D garden design model](assets/img/Services3Dshow.jpg)
 
-We offer a full garden design service for private gardens in Scotland. Check out our [garden design process](/process) to find out how we design and arrange the build of your garden space, or give us a call, we would be happy to have an initial chat about your garden requirements.
+We will create your dream garden. We provide a full garden design service, from initial design, to detailed drawings so your garden will be built as designed. We can also help with planning applications, and monitoring the build. Once the garden is finished we support you with follow up visits and providing advice to help keep the garden looking good as it matures. 
+
+Our [garden design process](/process) page shows you how we work to transform your outdoor space into the garden you desire.  Give us a call if you would like to have a chat about your garden requirements.
+
+>‘I cannot recommend this company highly enough, her attention to detail was incredible. We are very happy customers’ 
+Evelyn Brockbank, Alyth
 
 ### Planting Design 
 
@@ -23,7 +28,7 @@ We also arrange the sourcing of the plants and plant into prepared borders.
 We offer garden consultation  to help you understand the potential of your space.
 
 After your garden has been built we can provide follow up appointments to help you or your gardener keep the new garden looking great, as the planting matures.
-<img src="assets/img/ServicesPlant4.jpg" width="500" height="700" text="Mature Planting" alt=Mature Planting >
-*Mature Planting*
+<img src="assets/img/BG_services_consultation.jpg" text="Garden Consultation" alt=Garden Consultant>
+*Garden Consultation*
 
 [Get in Touch](/contact) about your garden and we will be happy to chat.

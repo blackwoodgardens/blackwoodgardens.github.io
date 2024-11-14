@@ -16,4 +16,4 @@ Anna is a natural problem solver and loves the challenge of transforming outdoor
 
 ### Join us now on your garden journey ###
 
-![anna](/assets/img/annaplants.jpg)
+![Anna Blackwood](/assets/img/BG_about_Anna.jpg)

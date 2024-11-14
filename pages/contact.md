@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Contact
+title: Get In Touch
 category: contact
 permalink: /contact 
 ---
-![Mecanopsis](/assets/img/MeconopsisLandscape.jpg)
-#####  are you ready to start your next project with us ?  ##### 
+![Design Meeting](/assets/img/BG_contact_meeting.jpg)
+
+Give us a call or drop us an email to discuss your garden requirements 
 
 [blackwoodgardens@gmail.com](mailto:blackwoodgardens@gmail.com)
 
