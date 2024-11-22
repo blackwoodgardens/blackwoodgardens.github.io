@@ -7,7 +7,7 @@ image: blog1_image1.jpg
 ---
 ... Just different levels of maintenance. Even a garden with no plants needs work; gravel weeded, patios cleaned, wooden structures protected, leaves swept up and the list goes on.
 
-### Fewer plants often means less weeding
+### More plants means less weeding
 
 My own garden is stuffed with plants which means very little weeding, as there is less space for the weeds to self-seed. 
 With a little knowledge of how to look after the plants in your garden, you can have a relatively easy garden to look after without too much to do.
@@ -39,13 +39,13 @@ Our damp climate means they can be prone to black spot (a fungal disease) as wel
 
 Flowering shrubs which are easy to maintain are a good choice for low-maintenance gardens such as *Weigela florida* or *Hydrangea macrophylla.* 
 
-You could also choose herbaceous perennials with a long flowering season *Geranium'Rozeanne' salvia nachtvlinder* are some good examples.
+You could also choose herbaceous perennials with a long flowering season *geranium 'Rozeanne'* and *salvia 'Nachtvlinder'* are some good examples.
 ![](/assets/img/blog1_image2_geranium_rozeanne.jpg)
 *Geranium 'Rozeanne'*
 
 ### Hard working plants
 
-As well as picking plants that are easy to look after I like plants that offer multiple seasons of interest in the garden and do more than one thing.
+As well as picking plants that are easy to look after, I like plants that offer multiple seasons of interest in the garden and do more than one thing.
 
 An example from my garden is in my mixed hedge. 
 
