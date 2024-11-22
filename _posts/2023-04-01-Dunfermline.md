@@ -12,10 +12,10 @@ The brief was to improve access around the garden as it had awkward steps, a ste
 The design uses lots of organic shapes and curves, featuring a smooth resin bound path which provides easy access around the garden.  A beautiful curved paddlestone wall separates upper and lower planting terraces. The central pond can be viewed from the house as well as from the summerhouse. The design includes a new porcelain patio and raised beds for growing veg. All the utilities are screened in the side passage.
 ![Terrace](/assets/img/TerraceDunfermline.jpg)
 *Terrace Planting with Curved Paddlestone Wall*
+![Wildlife friendly pond](/assets/img/BG_Projects_Dunfermline_pond.jpg)
+*Wildlife Friendly Pond*
 ![Terrace](/assets/img/DunfermlineBackdoor.jpg)
 *New back door steps, resin path, raised beds and greenhouse*
-![Pond](/assets/img/PondDunfermlineclose.jpg)
-*Wildlife Friendly Pond*
 
 > 
 
@@ -23,6 +23,9 @@ The design uses lots of organic shapes and curves, featuring a smooth resin boun
 Replaced the existing driveway with a new resin bound gravel drive (SUDs compliant) edged with setts. The lawn was replaced with new rabbit proof planting in the front garden. The front connects to the back garden through the use of materials and provides a wow factor as you enter the house.
 ![Front](/assets/img/DunfermlineFront.jpg)
 *New Drive and Planting*
+
+![rabbit proof plants](/assets/img/BG%20_Projects_Dunfermline_front2.jpg)
+*rabbit proof planting*
 
 ## Site Before Starting ##
 ![Before](assets/img/DunfermlineBefore.jpg)

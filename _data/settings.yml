@@ -8,10 +8,10 @@ disqus:
 google-ID: 'G-32BWWCYLJC'
 menu:
 - {name: 'Projects',  url: 'projects'}
-- {name: 'Services',  url: 'services'}
-- {name: 'Process',   url: 'process'}
+- {name: 'Services',  url: 'Services'}
 - {name: 'About',     url: 'about'}
 - {name: 'Contact',   url: 'contact'}
+- {name: 'Chat',      url: 'chat'}
 - {url:                'docs'}
 
 
