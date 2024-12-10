@@ -106,6 +106,20 @@ The planting was designed for harmonious colours and seasonal interest.
 			</item>
 		
 			<item>
+				<title>The Holly and the Ivy and a wee Christmas Robin</title>
+				
+				
+					<description>&lt;h3 id=&quot;ho-ho-ho-its-holly&quot;&gt;Ho, ho, ho it’s Holly&lt;/h3&gt;
+&lt;p&gt;Most of us are familiar with the English form of holly &lt;em&gt;(Illex aquifolium)&lt;/em&gt; with its shiny dark green spiky leaves and red berries. 
+It makes you think of Christmas, but did you know that to get berries on your holly tree, then you need a male plant located close to the female plant to produce berries?&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/ChatChristmas</link>
+				<guid isPermaLink="true">http://localhost:4000/ChatChristmas</guid>
+			</item>
+		
+			<item>
 				<title>Border Rejuvination East Lothian</title>
 				
 				
@@ -132,18 +146,6 @@ The planting was designed for harmonious colours and seasonal interest.
 				<pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Quartermile</link>
 				<guid isPermaLink="true">http://localhost:4000/Quartermile</guid>
-			</item>
-		
-			<item>
-				<title>There is no such thing as a low-maintenance garden</title>
-				
-				
-					<description>&lt;p&gt;… Just different levels of maintenance. Even a garden with no plants needs work; gravel weeded, patios cleaned, wooden structures protected, leaves swept up and the list goes on.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/ChatLowMaint</link>
-				<guid isPermaLink="true">http://localhost:4000/ChatLowMaint</guid>
 			</item>
 		
 	</channel>
