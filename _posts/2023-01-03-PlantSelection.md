@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Planting Design Service"
 categories: [services]
 tags: [services]

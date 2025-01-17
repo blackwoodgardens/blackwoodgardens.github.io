@@ -7,6 +7,19 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Five Garden Lessons</title>
+				
+				
+					<description>&lt;h3 id=&quot;if-only-i-had-known&quot;&gt;If only I had known…&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;I could have saved myself a lot of time, money and energy&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Chat-Five-Lessons</link>
+				<guid isPermaLink="true">http://localhost:4000/Chat-Five-Lessons</guid>
+			</item>
+		
+			<item>
 				<title>Front and Back Garden Dunfermline</title>
 				
 				
@@ -129,23 +142,6 @@ It makes you think of Christmas, but did you know that to get berries on your ho
 				<pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Border</link>
 				<guid isPermaLink="true">http://localhost:4000/Border</guid>
-			</item>
-		
-			<item>
-				<title>City Roof Top Terrace - Edinburgh</title>
-				
-				
-					<description>&lt;p&gt;&lt;img src=&quot;/assets/img/Quartermilelevel6.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Featured large planters to compliment old and new buildings&lt;/em&gt;
-&lt;img src=&quot;/assets/img/QuatermileRustyPlanter.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Lower terrace – planted with a selections of grasses, shrubs and trees that can cope with the windy location&lt;/em&gt;
-&lt;img src=&quot;/assets/img/Quartermile7.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Upper Terrace – mix of grasses and perennials for bright airy feel with yellows, terracotta’s and red&lt;/em&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Quartermile</link>
-				<guid isPermaLink="true">http://localhost:4000/Quartermile</guid>
 			</item>
 		
 	</channel>
