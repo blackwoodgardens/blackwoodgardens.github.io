@@ -3,7 +3,7 @@ layout: post
 title: "Love your garden to sell your home"
 categories: [chat]
 tags: [chat]
-image: Blog%203,%20image%202,%20Garden%20focal%20point.jpg
+image: Blog%203,%20image%201,%20Broughton%20House%20Garden.jpg
 ---
 Purchasing a new home is an emotional affair as it is often our largest financial commitment so getting it right is a big deal. 
 
@@ -26,8 +26,6 @@ Do you see wheelie bins, plastic toys or the back of a shed ?
 Tidy up, put bins in a discreet place or screen it with a trellis and evergreen climber. 
 
 A well-appointed shrub, sculpture or water feature can provide added interest, acting as a focal point to direct your eye and enhance the view from the window.
-
-![Broughton House](/assets/img/Blog%203,%20image%201,%20Broughton%20House%20Garden.jpg)
 
 ### Don't reveal everything at once
 Secret spaces in gardens are great. They can be playful and can reveal themselves gradually. 
