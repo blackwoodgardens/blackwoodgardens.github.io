@@ -13,7 +13,7 @@ Visits are charged as follows:
 
 Edinburgh/Lothians area:
 
-- £120 including write up of notes and discussion points; or 
-- £90 – without write up
+- £130 - including write up of notes and discussion points; or 
+- £97.50 – without write up
 
 Please feel free to give us a call prior to booking a visit to discuss your requirements.
