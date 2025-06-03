@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>We all love the seaside, but do our plants?</title>
+				
+				
+					<description>&lt;p&gt;Making a successful coastal garden is all about managing the conditions.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 03 Jun 2025 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/ChatCoastal</link>
+				<guid isPermaLink="true">http://localhost:4000/ChatCoastal</guid>
+			</item>
+		
+			<item>
 				<title>Creating Pet Friendly Gardens</title>
 				
 				
@@ -128,18 +140,6 @@ The planting was designed for harmonious colours and seasonal interest.
 				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Murrayfield</link>
 				<guid isPermaLink="true">http://localhost:4000/Murrayfield</guid>
-			</item>
-		
-			<item>
-				<title>Show Garden</title>
-				
-				
-					<description>&lt;p&gt;SRUC show garden: College show garden at Gardening Scotland 2019 ‘Bayet’ garden winning Silver Gilt&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/ShowGarden</link>
-				<guid isPermaLink="true">http://localhost:4000/ShowGarden</guid>
 			</item>
 		
 	</channel>

@@ -7,3 +7,6 @@ permalink: /docs
 Select link below then choose to save or download to your computer:
 
 [Blackwood Gardens - Privacy Policy](/assets/docs/BG%20Privacy%20policy%2010.2.21.pdf)
+ 
+[Blackwood Gardens - Terms of Engagement](/assets/docs/terms_of_engagement.pdf)
+
