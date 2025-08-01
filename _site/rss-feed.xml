@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Fragrant Garden</title>
+				
+				
+					<description>&lt;p&gt;Scent is so important in the garden.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 30 Jul 2025 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/Fragrant</link>
+				<guid isPermaLink="true">http://localhost:4000/Fragrant</guid>
+			</item>
+		
+			<item>
 				<title>We all love the seaside, but do our plants?</title>
 				
 				
@@ -119,27 +131,6 @@ The garden was made up of lawn, mature shrubs and concrete paths with bins on vi
 				<pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Alva</link>
 				<guid isPermaLink="true">http://localhost:4000/Alva</guid>
-			</item>
-		
-			<item>
-				<title>Planting Design Murrayfield</title>
-				
-				
-					<description>&lt;p&gt;This newly landscaped garden needed plants! 
-I was brought in to design the planting for the owner who was keen to develop the garden and learn more about the plants. 
-The planting was designed for harmonious colours and seasonal interest.
-&lt;img src=&quot;/assets/img/MurrayHespranthus.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Hesperantha late flowering Perennial&lt;/em&gt;
-&lt;img src=&quot;/assets/img/MurrayVerbena.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Vernena bonariensis&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-
-&lt;/blockquote&gt;
-</description>
-				
-				<pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Murrayfield</link>
-				<guid isPermaLink="true">http://localhost:4000/Murrayfield</guid>
 			</item>
 		
 	</channel>
