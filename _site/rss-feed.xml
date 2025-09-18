@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Who does what in a Garden Renovation ?</title>
+				
+				
+					<description>&lt;p&gt;Do you know who to contact to renovate your garden?&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 17 Sep 2025 00:00:00 +0100</pubDate>
+				<link>http://localhost:4000/WhoDoesRenovation</link>
+				<guid isPermaLink="true">http://localhost:4000/WhoDoesRenovation</guid>
+			</item>
+		
+			<item>
 				<title>The Fragrant Garden</title>
 				
 				
@@ -117,20 +129,6 @@ The garden was made up of lawn, mature shrubs and concrete paths with bins on vi
 				<pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Cockenzie</link>
 				<guid isPermaLink="true">http://localhost:4000/Cockenzie</guid>
-			</item>
-		
-			<item>
-				<title>New build garden - Alva</title>
-				
-				
-					<description>&lt;p&gt;The brief for this brand new house and garden was to create a garden for socialising, which maximised the view of the hills, provided pollinator friendly planting, space for the hot tub and space to grow some vegetables.
-&lt;img src=&quot;/assets/img/AlvaAfter2.jpg&quot; alt=&quot;Alva&quot; /&gt;
-&lt;em&gt;Social Patio area with view&lt;/em&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Alva</link>
-				<guid isPermaLink="true">http://localhost:4000/Alva</guid>
 			</item>
 		
 	</channel>
