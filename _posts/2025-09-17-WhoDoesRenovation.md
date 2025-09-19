@@ -7,15 +7,15 @@ image: blog5_cover.jpg
 ---
 Do you know who to contact to renovate your garden? 
 
-Do you what services the various trades offer? 
+Do you know what services the various trades offer? 
 
 There are lots of professionals that work on and in a private garden; from designing it, to building it, and on to maintaining it. 
 
 Getting the right team can avoid costly mistakes, so you get the garden of your dreams.
 
-### Let's start with a garden designer
+### Let's start with a Garden Designer
 
-A garden designer is a [professional qualified in garden design.](https://sgld.org.uk/find-a-designer/working-with-a-designer) (external link)  
+A Garden Designer is a [professional qualified in garden design.](https://sgld.org.uk/find-a-designer/working-with-a-designer) (external link)  
 
 They will work with a client to fully understand their requirements to be able to design the garden to meet these requirements. 
 
@@ -27,7 +27,7 @@ They will often work closely with the landscaper, monitoring the build stage to 
 
 Garden designers are knowledgeable on many aspects of the garden from lighting to drainage and will have horticulture skills to be able to select the right plants for your garden. 
 
-Their role is different to that of a landscape architect, who will often work on much larger projects such as urban landscapes, whereas Garden designers tend to work in private gardens and have detailed plant knowledge.
+Their role is different to that of a Landscape Architect, who will often work on much larger projects such as urban landscapes, whereas Garden designers tend to work in private gardens and have detailed plant knowledge.
 
 Planting design is a service many garden designers provide. 
 
@@ -35,11 +35,10 @@ This is selecting plants combinations that will thrive in your garden and create
 
 Some designers just focus on planting design. 
 
-When selecting a garden designer it is important to understand the service they offer, the qualifications and experience they have and an understand if they have a particular style or philosophy to make sure they are a good fit for you.  
+When selecting a Garden Designer it is important to understand; the service they offer, their qualifications and experience and 
+any particular style or philosophy they have.  This will help you find the right designer for your own garden.
 
-Landscapers get your garden built.
-
-Landscapers are the people who will deliver the built garden. 
+### Landscapers will build your garden
 
 Landscapers are highly skilled trades people and will work with the different ground conditions and levels, build walls, lay patios, landscape the ground, install drainage, prepare the ground for planting and much much more. 
 
@@ -83,7 +82,7 @@ It is always a good idea to see examples of work and ascertain skill levels and 
 
 Communication will also be key to a successful working relationship, are they easy to get hold of, answer your questions and keep you informed of progress ?
 
-If you are looking at a full garden transformation, then contact a garden designer in the first instance. 
+If you are looking at a full garden transformation, then contact a Garden Designerin the first instance. 
 
 They will not only design your garden for you, but they will often bring in skilled and knowledgeable trades people at the different stages of the garden development.
 
