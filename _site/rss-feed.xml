@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Six Reasons to Plant a Hedge</title>
+				
+				
+					<description>&lt;p&gt;Hedging might not sound like the most exciting feature in the garden, but it’s one of the most useful and versatile.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Hedges</link>
+				<guid isPermaLink="true">http://localhost:4000/Hedges</guid>
+			</item>
+		
+			<item>
 				<title>Who does what in a Garden Renovation ?</title>
 				
 				
@@ -116,19 +128,6 @@ The garden was made up of lawn, mature shrubs and concrete paths with bins on vi
 				<pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Balerno</link>
 				<guid isPermaLink="true">http://localhost:4000/Balerno</guid>
-			</item>
-		
-			<item>
-				<title>Cockenzie East Lothian</title>
-				
-				
-					<description>&lt;h2 id=&quot;sunny-coastal-garden&quot;&gt;Sunny Coastal Garden&lt;/h2&gt;
-&lt;p&gt;This sunny enclosed garden is located in a conservation area of a historic fishing village in East Lothian. The owner wanted to increase the size of the seating area, while keeping it in the same location. The challenge was the house was accessed by  doors on different levels.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Cockenzie</link>
-				<guid isPermaLink="true">http://localhost:4000/Cockenzie</guid>
 			</item>
 		
 	</channel>
