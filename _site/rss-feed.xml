@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Winter Garden</title>
+				
+				
+					<description>&lt;p&gt;In winter the need to hibernate really appeals as the days shorten and the temperture drops.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Winter</link>
+				<guid isPermaLink="true">http://localhost:4000/Winter</guid>
+			</item>
+		
+			<item>
 				<title>Six Reasons to Plant a Hedge</title>
 				
 				
@@ -116,18 +128,6 @@ The garden was made up of lawn, mature shrubs and concrete paths with bins on vi
 				<pubDate>Fri, 31 Mar 2023 00:00:00 +0100</pubDate>
 				<link>http://localhost:4000/Portobello</link>
 				<guid isPermaLink="true">http://localhost:4000/Portobello</guid>
-			</item>
-		
-			<item>
-				<title>Planting Design - Edinburgh</title>
-				
-				
-					<description>&lt;p&gt;Planting Design – Edinburgh&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
-				<link>http://localhost:4000/Balerno</link>
-				<guid isPermaLink="true">http://localhost:4000/Balerno</guid>
 			</item>
 		
 	</channel>
