@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A New Year - A New Garden       ?" 
+title: "New Year - Garden Transformations" 
 categories: [chat]
 tags: [chat]
 image: blog10_cover.jpg
