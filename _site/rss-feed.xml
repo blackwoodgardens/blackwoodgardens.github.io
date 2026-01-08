@@ -7,6 +7,30 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>A New Year - A New Garden       ?</title>
+				
+				
+					<description>&lt;h3 id=&quot;the-new-year-is-a-time-to-embrace-change&quot;&gt;The New Year is a time to embrace change.&lt;/h3&gt;
+</description>
+				
+				<pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/GardenTransformation</link>
+				<guid isPermaLink="true">http://localhost:4000/GardenTransformation</guid>
+			</item>
+		
+			<item>
+				<title>New Build Garden - Alyth</title>
+				
+				
+					<description>&lt;p&gt;This garden was quite literally a blank canvas with a sea of rocks and mud.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/Alyth</link>
+				<guid isPermaLink="true">http://localhost:4000/Alyth</guid>
+			</item>
+		
+			<item>
 				<title>The Winter Garden</title>
 				
 				
@@ -101,33 +125,6 @@
 				<pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
 				<link>http://localhost:4000/Chat-Five-Lessons</link>
 				<guid isPermaLink="true">http://localhost:4000/Chat-Five-Lessons</guid>
-			</item>
-		
-			<item>
-				<title>Front and Back Garden Dunfermline</title>
-				
-				
-					<description>&lt;h2 id=&quot;back-garden&quot;&gt;Back garden&lt;/h2&gt;
-&lt;p&gt;The brief was to improve access around the garden as it had awkward steps, a steep planting bank, slippery deck and rough gravel paths. The owner is a keen gardener and wanted lots of space for planting, a wildlife pond and space to grow vegetables. They also wanted a new seating area with a combined shed/greenhouse building and summerhouse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sat, 01 Apr 2023 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/Dunfermline</link>
-				<guid isPermaLink="true">http://localhost:4000/Dunfermline</guid>
-			</item>
-		
-			<item>
-				<title>Front Garden - Edinburgh</title>
-				
-				
-					<description>&lt;h3 id=&quot;portobello-front-garden&quot;&gt;Portobello Front Garden&lt;/h3&gt;
-&lt;p&gt;This project was about the rejuvination of a front garden in the conservation area of Portobello. 
-The garden was made up of lawn, mature shrubs and concrete paths with bins on view. The owner wanted to replace the paths, hide the bins and create a garden that gave doorstep appeal. As this garden is located in a conservation area planning permission was secured to make the changes.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 31 Mar 2023 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/Portobello</link>
-				<guid isPermaLink="true">http://localhost:4000/Portobello</guid>
 			</item>
 		
 	</channel>
