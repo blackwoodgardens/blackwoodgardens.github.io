@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Spring Forward with bulbs"
+title: "Spring Forward with Bulbs"
 categories: [chat]
 tags: [chat]
-image:blog14_allium.jpg
+image: blog14_allium.jpg
 ---
 As winter fades and spring arrives, we begin to look forward to longer days and more time outdoors. 
 
